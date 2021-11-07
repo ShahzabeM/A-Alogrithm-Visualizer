@@ -1,1 +1,1 @@
-# A*-Alogrithm-Visualizer
+# A*_Alogrithm_Visualizer

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In project I used Python and the Pygame module in order to create a visuliazationa and implementaion of the A Star alogrithm.
+In this project I used Python and the Pygame module in order to create a visualization and implementaion of the A Star alogrithm.
 
 The A Star algorithm select a path that minimizes f(n)=g(n) + h(n) where n = next node, g(n) = distance from start node to n and
 h(n) is a heuristic function that approximates the cost of the shortest path n to the desired point. The goal is to find the 
